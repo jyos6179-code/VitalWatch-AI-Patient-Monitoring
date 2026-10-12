@@ -1,0 +1,6 @@
+{
+  "name": "VitalWatch",
+  "description": "AI-based clinical early warning system predicting patient deterioration hours in advance with interpretable risk scores, SHAP explanations, and real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
